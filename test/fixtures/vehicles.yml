@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  make: MyString
+  model: MyString
+  year: MyString
+  price: MyString
+  range: MyString
+  toSixty: MyString
+  towCapacity: MyString
+  horsePower: MyString
+  link: MyString
+
+two:
+  type: 
+  make: MyString
+  model: MyString
+  year: MyString
+  price: MyString
+  range: MyString
+  toSixty: MyString
+  towCapacity: MyString
+  horsePower: MyString
+  link: MyString
