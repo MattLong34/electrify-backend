@@ -2,7 +2,7 @@
 
 > Find and compare Electric Vehicles!
 
-## Table of contents
+## Table of Contents
 
 - [General info](#general-info)
 - [Intro Video](#intro-video)
