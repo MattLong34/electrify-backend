@@ -24,7 +24,7 @@ car13 = Vehicle.create(category: "car", make: "Tesla", model: "Model Y", year: "
 
 car11 = Vehicle.create(category: "car", make: "Nissan", model: "Leaf", year: "2020", price: "$31,600", range: "226 mi", toSixty: "7.4 s", towCapacity: " lbs", horsePower: "147 hp", link: "https://greenecsb.org/wp-content/uploads/nissan-leaf-zero-2020.jpg")
 
-car6 = Vehicle.create(category: "car", make: "Jaguar", model: "I-Pace", year: "2020", price: "$69,850", range: "234 mi", toSixty: "4.5 s", towCapacity: " lbs", horsePower: "394 hp", link: "http://bestnewsuv.com/wp-content/uploads/2019/04/2020-Jaguar-I-Pace-Front-View.jpg")
+car6 = Vehicle.create(category: "car", make: "Jaguar", model: "I-Pace", year: "2020", price: "$69,850", range: "234 mi", toSixty: "4.5 s", towCapacity: " lbs", horsePower: "394 hp", link: "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/jag-i-pace-weba-uk-466_2.jpg?itok=ZoxM0fc1")
 
 car7 = Vehicle.create(category: "car", make: "Hyundai", model: "Kona Electric", year: "2020", price: "$37,190", range: "258 mi", toSixty: "6.5 s", towCapacity: " lbs", horsePower: "201 hp", link: "https://static.cargurus.com/images/site/2019/08/05/11/19/2020_hyundai_kona_electric-pic-8220676765346652477-1600x1200.png")
 
