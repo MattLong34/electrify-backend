@@ -22,7 +22,7 @@ Dive in and find the perfect Electric Vehicle for you! The world is surging forw
 
 ## Intro Video
 
-[Electrify on YouTube]()
+[Electrify on YouTube](https://youtu.be/nzWYBCkjfmE)
 
 ## Technologies
 
