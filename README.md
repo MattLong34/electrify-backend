@@ -34,19 +34,11 @@ Dive in and find the perfect Electric Vehicle for you! The world is surging forw
 - Animista
 - Ruby
 - Rails
-- ActiveRecord
-- Sqlite3
+- PostgreSQL
 
 ## Setup
 
-To have full access to all the features in this application:
-
-1. Clone both the frontend (https://github.com/MattLong34/electrify-frontend) and the backend (https://github.com/MattLong34/electrify-backend) repositories locally to your computer
-1. In the command line of your backend directory, run:
-   $ rails db:migrate and $ rails db:seed
-1. Now save all files, on Windows: (start + alt + s), on Macs: (command + alt +s)
-1. In the command line of the backend directory, run \$ rails s to start your backend server
-1. In the command line of the frontend directory run \$ npm start to open the web application in a new broswer tab
+Electrify is live! Visit Electrify out in the wild at https://get-electrified.web.app today. No further setup required!
 
 ## Features
 
