@@ -2,6 +2,8 @@
 
 > Find and compare Electric Vehicles!
 
+![Electrify Image](https://i.imgur.com/EznkQCT.png)
+
 ## Table of Contents
 
 - [General info](#general-info)
